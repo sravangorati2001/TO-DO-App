@@ -1,0 +1,72 @@
+body{
+  background-image: url(image2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+h1{
+  text-align: center;
+  color: aqua;
+}
+
+.background{
+  background-color: black;
+  
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+  overflow-y: hidden;
+}
+#todo-form input{
+  height: 40px;
+  width: 200px;
+  margin: 20px ;
+  background-color: lightseagreen;
+  padding: 0px 10px;
+  color: white;
+  border-radius: 10px;
+}
+#todo-form input::placeholder{
+  color: black;
+  font-size: medium;
+}
+#todo-form input:focus, #todo-form button:focus{
+  outline: none;
+}
+#todo-form button{
+  height: 40px;
+  width: 70px;
+  border-radius: 5px;
+  background-color: goldenrod;
+  cursor: pointer;
+  color: white;
+}
+.list {
+  color: antiquewhite;
+  margin: 30px;
+  background-color: deeppink;
+  height: 50px;
+  border-radius: 5px;
+  width: 300px;
+  font-size: large;
+}
+.list p{
+  padding: 10px;
+  position: relative;
+}
+.list p span{
+  position: absolute;
+  right: 10px;
+  cursor: pointer;
+  color: green;
+}
+.list p input{
+  border: 0px;
+  background-color: transparent;
+  color: white;
+  font-size: 18px;
+}
+.list p input:focus{
+  outline: none;
+}

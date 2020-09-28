@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b5ed644a3a933e3fed338c53add34f15",
+    "revision": "c79de4c4d7ed86007a7f4d9ebb9a5b95",
     "url": "/TO-DO-App/index.html"
   },
   {
-    "revision": "a32bf7c1ee5772bcb354",
-    "url": "/TO-DO-App/static/css/main.f3f1a554.chunk.css"
+    "revision": "aee2c0a023e14e436d85",
+    "url": "/TO-DO-App/static/css/main.2f4b7e12.chunk.css"
   },
   {
     "revision": "a508aac9b7a57e50f5f2",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TO-DO-App/static/js/2.205ad782.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a32bf7c1ee5772bcb354",
+    "revision": "aee2c0a023e14e436d85",
     "url": "/TO-DO-App/static/js/main.fcf615fa.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TO-DO-App/static/media/image2.e7d90f71.jpg"
   },
   {
-    "revision": "b5553b75c6447b562178d8c46b989903",
-    "url": "/TO-DO-App/static/media/mobile.b5553b75.jpg"
+    "revision": "bbbc96b26e4bc8292e4759e3a2ca0f51",
+    "url": "/TO-DO-App/static/media/mobile.bbbc96b2.jpg"
   }
 ]);
